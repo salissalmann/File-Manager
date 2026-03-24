@@ -1,0 +1,29 @@
+3.15.2023 westheimer plumbing ca50408 $17000 jb1523.pdf
+3.20.2023 westheimer plumbing ca50408 $8500 jb1523.pdf
+3.25.2023 westheimer plumbing ca50408 $17000 and $8500 jb1523.pdf
+12.27.2023 home depot $222.77 jb1523 milford.pdf
+12.28.2023 home depot $118.42 jb1523 milford.pdf
+12.29.2023 home depot $300 jb1523 milford.pdf
+6.10.2023 ferguson ca60110 $4520 invoice.pdf
+6.11.2023 ferguson ca60110 $2260 invoice.pdf
+Inv 1199 Ck 1081 REstan Drywall Ca 53615 Jb 1523 Milford
+6.12.2023 ferguson ca60110 $4520 and $2260 invoice.pdf
+Inv 113022-01 Ck 1075 Marin Construction Ca 51070 Jb 1523 MIlford
+1.05.2024 abc supply ca51010 $10000 project.pdf
+1.06.2024 abc supply ca51010 $5000 partial.pdf
+1.07.2024 abc supply ca51010 $5000 partial second.pdf
+9.01.2023 city electric ca70220 $1345.50 invoice.pdf
+9.02.2023 city electric ca70220 $1345 invoice.pdf
+11.01.2023 lowes ca1523 $890.12 materials.pdf
+11.02.2023 lowes ca1523 $445.06 materials.pdf
+4.01.2023 vyo structural ca80100 $12000 framing.pdf
+pot-o-gold invoice - reprint by invoice
+4.02.2023 vyo structural ca80100 $6000 framing part1.pdf
+4.03.2023 vyo structural ca80100 $6000 framing part2.pdf
+20211206_161057
+12-21-2022 Houston Permitting - 80.63
+5.01.2023 random vendor ca99999 $999.99 misc.pdf
+3.15.2023 westheimer plumbing ca99999 $17000 wrongca.pdf
+pot-o-gold invoice - reprint by invoice
+12.27.2023 home depot $222.77 ca99999 wrongca.pdf
+6.10.2023 ferguson ca60110 $9999 wrongamount.pdf

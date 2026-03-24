@@ -1,0 +1,4 @@
+9.01.2023 city electric ca70220 $1345.50 invoice.pdf
+9.02.2023 city electric ca70220 $1345 invoice.pdf
+11.01.2023 lowes ca1523 $890.12 materials.pdf
+11.02.2023 lowes ca1523 $445.06 materials.pdf

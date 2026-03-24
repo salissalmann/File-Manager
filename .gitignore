@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environments
+.env
+venv/
+ENV/
+env/
+*_venv/
+
+# IDEs
+.vscode/
+.idea/
+.claude/
+
+# Project specifics
+outputs/
+!outputs/.gitkeep
