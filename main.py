@@ -76,10 +76,11 @@ def main() -> None:
     print(f"  Orphan files:       {len(orphans)}")
     print(f"{'='*60}")
 
-    # Print detailed results
+    # Print detailed results (sorted by score descending)
+    sorted_results = sorted(results, key=lambda r: r.score, reverse=True)
     print(f"\n{'Row':<5} {'Vendor':<25} {'Amount':>10} {'Status':<10} {'Score':>6} {'Matched File'}")
     print(f"{'-'*5} {'-'*25} {'-'*10} {'-'*10} {'-'*6} {'-'*40}")
-    for r in results:
+    for r in sorted_results:
         row = r.ledger_row
         file_name = r.matched_file.original_name[:40] if r.matched_file else "—"
         print(

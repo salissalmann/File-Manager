@@ -60,8 +60,9 @@ def _build_file_link(filename: str, base_path: str) -> str:
 
 
 def _write_matches_sheet(ws, results: list[MatchResult], base_path: str) -> None:
-    """Write the main matches sheet."""
+    """Write the main matches sheet, sorted by score descending."""
     ws.title = "Match Results"
+    results = sorted(results, key=lambda r: r.score, reverse=True)
 
     headers = [
         "Row #", "Vendor", "Date", "CA Code", "Amount",

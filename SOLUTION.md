@@ -13,17 +13,10 @@ Custom paths:
 make run LEDGER=path/to/ledger.xlsx FILES=path/to/files.txt OUTPUT=out.xlsx
 ```
 
-With clickable file links (SharePoint or local folder):
-```bash
-make run BASE_PATH="https://company.sharepoint.com/sites/docs/files"
-```
-
 Or directly:
 ```bash
 python main.py --ledger "inputs/1523 TEST Ledger.xlsx" --files inputs/filenames.txt --output outputs/results.xlsx --base-path "https://sharepoint.example.com/files"
 ```
-
----
 
 ## Example Commands (Demo Scenarios)
 
@@ -68,11 +61,6 @@ python main.py --ledger "inputs/1523 TEST Ledger.xlsx" --files inputs/scenario_i
 ```
 **Expected:** REstan Drywall matches `Inv 1199` file (vendor + CA + invoice hint = score 55). Houston Permitting matches bare `80.63` (no $ sign). `20211206_161057` is an orphan (unparseable). Pot-O-Gold gets Review status (vendor-only match).
 
-### 7. Clickable SharePoint links in Excel
-```bash
-python main.py --ledger "inputs/1523 TEST Ledger.xlsx" --files inputs/filenames.txt --output outputs/with_links.xlsx --base-path "https://company.sharepoint.com/sites/docs"
-```
-**Expected:** Open `outputs/with_links.xlsx` → the **File Path** column (G) contains clickable blue hyperlinks pointing to `https://company.sharepoint.com/sites/docs/<filename>`.
 
 ### 8. Run all 161 tests
 ```bash
