@@ -1,4 +1,0 @@
-3.15.2023 westheimer plumbing ca50408 $17000 jb1523.pdf
-3.15.2023 westheimer plumbing ca99999 $17000 wrongca.pdf
-6.10.2023 ferguson ca60110 $9999 wrongamount.pdf
-6.10.2023 ferguson ca60110 $4520 invoice.pdf

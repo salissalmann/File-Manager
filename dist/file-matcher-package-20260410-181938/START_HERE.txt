@@ -1,0 +1,15 @@
+File Matcher Package - Quick Start
+=================================
+
+1) Open terminal in this package folder
+2) Run:
+   make install
+3) Put your files in:
+   inputs/
+4) Run matching:
+   make run
+5) Open result:
+   outputs/results.xlsx
+
+Detailed guide:
+docs/run_guide.md

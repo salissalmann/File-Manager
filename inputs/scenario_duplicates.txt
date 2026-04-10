@@ -1,6 +1,0 @@
-1.05.2024 abc supply ca51010 $10000 project.pdf
-1.06.2024 abc supply ca51010 $5000 partial.pdf
-1.07.2024 abc supply ca51010 $5000 partial second.pdf
-4.01.2023 vyo structural ca80100 $12000 framing.pdf
-4.02.2023 vyo structural ca80100 $6000 framing part1.pdf
-4.03.2023 vyo structural ca80100 $6000 framing part2.pdf

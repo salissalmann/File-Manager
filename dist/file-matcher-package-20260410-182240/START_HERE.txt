@@ -1,0 +1,15 @@
+File Matcher Package - Quick Start
+=================================
+
+1) Open terminal in this package folder
+2) Install dependencies:
+   python -m venv .venv
+   .venv\Scripts\pip install -r requirements.txt   (Windows)
+   .venv/bin/pip install -r requirements.txt         (Mac/Linux)
+3) Put your files in inputs/
+4) Run matching:
+   .venv\Scripts\python main.py --ledger "inputs/Milford-Ledger Clean.xlsx" --files "inputs/dropbox_files.csv" --output "outputs/results.xlsx"   (Windows)
+   .venv/bin/python main.py --ledger "inputs/Milford-Ledger Clean.xlsx" --files "inputs/dropbox_files.csv" --output "outputs/results.xlsx"         (Mac/Linux)
+5) Open result: outputs/results.xlsx
+
+Detailed guide: docs/run_guide.md

@@ -7,6 +7,7 @@ __pycache__/
 
 # Environments
 .env
+.venv/
 venv/
 ENV/
 env/
@@ -20,3 +21,5 @@ env/
 # Project specifics
 outputs/
 !outputs/.gitkeep
+
+web
